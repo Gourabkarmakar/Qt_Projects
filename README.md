@@ -1,2 +1,5 @@
 # Qt_Projects
-qt Project Create In Python 
+
+*
+   1st project Calculator In Python qt   
+*
